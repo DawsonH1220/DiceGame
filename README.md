@@ -1,2 +1,1 @@
-# DiceGame
-Read the read me
+Avoid getting a one, this will reset the current score. You have the option to keep and it be the next player's turn, or you can roll again and risk getting a one. The current score is different from the main score. The current score are points you gathered that turn while the main score are the points you kept.
